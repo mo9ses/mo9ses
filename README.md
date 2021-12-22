@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @moisesgamingtv9
 - 👀 I’m interested in ROT
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ROT
-- 📫 How to reach me moisesgamingtv9#8583
+- 📫 How to reach me on Discord @moisesgamingtv9#8583
 
 <!---
 moisesgamingtv9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
