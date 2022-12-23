@@ -1,10 +1,10 @@
 <!-- Introduction -->
+![](https://komarev.com/ghpvc/?moisesgamingtv9=your-github-username&color=red&style=plastic)
 <div align="center">
   <h2> Hello, I'm Mo9ses<img src="https://discord.com/channels/872342406085890108/1001504583136325762/1055945607090556998" height="35px"></h2>
   </a>
   <br />
 </div>
-![](https://komarev.com/ghpvc/?moisesgamingtv9=your-github-username&color=red&style=plastic)
 <div>  
   <a href="https://github.com/moisesgamingtv9">
     <img src="https://komarev.com/ghpvc/?username=notbeer&label=Visitors" alt="profile views"/>
@@ -24,7 +24,7 @@
 
 > Contact me
 
-- Discord: [notbeer#9204](https://discordapp.com/users/588506090124345396/)
+- Discord: [Mo9ses#9190](https://discordapp.com/users/588506090124345396/)
 - YouTube: [@Mo9ses](https://www.youtube.com/channel/UCIyuI9UVOzOQJ0XeGDgQ5uQ)
 
 <!-- Profile -->
