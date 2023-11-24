@@ -1,7 +1,7 @@
 <!-- Introduction -->
 ![](https://komarev.com/ghpvc/?moisesgamingtv9=your-github-username&color=red&style=plastic)
 <div align="center">
-  <h2> Hello, I'm Mo9ses<img src="https://lh4.googleusercontent.com/lxVjL9arC6wGUvcdZO9MjmtLLpxlnMyEztoRSs92vPCEfPsaKDj3YeJOngYG0ruM9pKuckCiLZUcleryrpeYrO9vp3YngBgj9IH8OXGNdeHME2ivuGATLNb9ronTivU6s60ZvASU1zfWYFCue8mmPw" height="35px"></h2>
+  <h2> Hello, I'm Mo9ses👋🏽</h2>
   </a>
   <br />
 </div>
@@ -23,7 +23,7 @@
 </div>
 > Contact me
 
-- Discord: [Mo9ses#9190](https://discordapp.com/users/588506090124345396/)
+- Discord: [Mo9ses#0000](https://discordapp.com/users/588506090124345396/)
 - YouTube: [@Mo9ses](https://www.youtube.com/channel/UCIyuI9UVOzOQJ0XeGDgQ5uQ)
 
 
@@ -38,6 +38,5 @@
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=moisesgamingtv9&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgamingtv9&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" />
     <br /><br />
-    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=moisesgamingtv9&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
   </div>
 </details>
