@@ -17,7 +17,7 @@
 <!-- Socials -->
 <h2>🌐 Socials</h2>
 <div>  
-  <a href="https://github.com/moisesgamingtv9">
+  <a href="https://github.com/mo9ses">
     <img src="https://komarev.com/ghpvc/?username=moisesgamingtv9&label=Visitors" alt="profile views"/>
   </a>
 </div>
