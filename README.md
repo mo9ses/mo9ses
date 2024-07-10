@@ -33,10 +33,10 @@
   <summary><b>☄️ Profile</b></summary>
   <br />  
   <div align="center">
-    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=moisesgamingtv9&theme=material-palenight&hide_border=true" />
+    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=mo9ses&theme=material-palenight&hide_border=true" />
     <br /><br />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=moisesgamingtv9&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgamingtv9&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=mo9ses&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo9ses&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" />
     <br /><br />
   </div>
 </details>
